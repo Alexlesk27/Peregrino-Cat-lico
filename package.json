@@ -1,0 +1,19 @@
+{
+  "name": "peregrino_catolico",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "firebase": "^10.7.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12"
+  }
+}
